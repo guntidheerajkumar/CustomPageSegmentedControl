@@ -6,6 +6,7 @@ This is an Obj-C binding project based on https://github.com/AugustRush/ARSegmen
 
 ###Usage
 
+```
 public partial class ViewController : UIViewController, IARSegmentControllerDelegate
 {
 	UIImage defaultImage;
